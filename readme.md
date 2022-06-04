@@ -12,4 +12,6 @@ python manage.py rundramatiq
 
 python manage.py migrate
 python manage test
+
+# Swagger is accessible at `/api/swagger`
 ```
